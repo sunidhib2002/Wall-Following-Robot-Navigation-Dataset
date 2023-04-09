@@ -1,1 +1,1 @@
-# Wall-Following-Robot-Navigation-Dataset.
+# Wall-Following-Robot-Navigation-Dataset
